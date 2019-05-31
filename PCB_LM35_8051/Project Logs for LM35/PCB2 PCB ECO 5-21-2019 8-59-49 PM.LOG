@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=Cx3 NewDesignator=Cx4
+Change Component Designator: OldDesignator=Cx4 NewDesignator=Cx3
+Added Pin To Net: NetName=CLOCK Pin=IC1-21
+Added Pin To Net: NetName=OE Pin=IC1-22
+Added Pin To Net: NetName=EOC Pin=IC1-23
+Added Pin To Net: NetName=START Pin=IC1-24
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC2_1
+Added Room: Name=Sheet1

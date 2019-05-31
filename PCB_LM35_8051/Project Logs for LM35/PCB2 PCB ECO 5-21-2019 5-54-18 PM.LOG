@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=CTR_0 Pin=IC1-21
+Removed Pin From Net: NetName=CTR_1 Pin=IC1-22
+Removed Pin From Net: NetName=CTR_2 Pin=IC1-23
+Removed Pin From Net: NetName=CTR_3 Pin=IC1-24
+Added Pin To Net: NetName=CTR_3 Pin=IC1-25
+Added Pin To Net: NetName=CTR_2 Pin=IC1-26
+Added Pin To Net: NetName=CTR_1 Pin=IC1-27
+Added Pin To Net: NetName=CTR_0 Pin=IC1-28
+Added Room: Name=Sheet1

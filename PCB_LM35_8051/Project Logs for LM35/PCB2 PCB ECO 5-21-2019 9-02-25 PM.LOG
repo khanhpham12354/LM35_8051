@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=C2 Old Footprint=CP2/4 New Footprint=CP1.5/3.4
+Change Component Footprint: Designator=C3 Old Footprint=CP2/4 New Footprint=CP1.5/3.4
+Change Component Comment : Designator=C2 Old Comment=470uF/16V New Comment=1000uF/16V
+Change Component Comment : Designator=C3 Old Comment=470uF/16V New Comment=1000uF/16V
+Change component parameters: Designator = "C2"; Footprint = "CP1.5/3.4"; UniqueID = "\OHAVHOBF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Description 1"; Value = "2200uF-3300uF/6,3V - 1000uF-2200uF/10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "1000uF/16V - 470uF => 1000uF/25V - 100uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "330uF>470uF/35V_220uF>470uF/50V_10uF>22uF/250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 4"; Value = "220uF => 330uF/63V - 10uF =>33uF/160 - 200V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 5"; Value = "4,7uF>10uF/250V_3,3uF>10uF/400V - 2,2uF>4,7uF/450V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1000uF/16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "CP1.5/3.4"; UniqueID = "\UOYXGBSC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Description 1"; Value = "2200uF-3300uF/6,3V - 1000uF-2200uF/10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "1000uF/16V - 470uF => 1000uF/25V - 100uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "330uF>470uF/35V_220uF>470uF/50V_10uF>22uF/250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 4"; Value = "220uF => 330uF/63V - 10uF =>33uF/160 - 200V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 5"; Value = "4,7uF>10uF/250V_3,3uF>10uF/400V - 2,2uF>4,7uF/450V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1000uF/16V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component C2 1000uF/16V
+Added Member To Class: ClassName=Sheet1 Member=Component Cx4 104
+Added Room: Name=Sheet1

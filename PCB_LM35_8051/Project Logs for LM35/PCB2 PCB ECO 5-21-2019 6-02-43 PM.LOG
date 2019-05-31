@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=NetU1_2 Pin=U1-2
+Removed Pin From Net: NetName=NetU1_2 Pin=U2-26
+Added Component: Designator=JP1(JP8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "JP7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU1_2 Pin=IC1-17
+Added Pin To Net: NetName=NetU1_2 Pin=U2-17
+Change Net Name : Old Net Name=NetU1_2 New Net Name=OUT8
+Added Pin To Net: NetName=IN0 Pin=JP1-1
+Added Pin To Net: NetName=IN0 Pin=U1-2
+Added Pin To Net: NetName=IN0 Pin=U2-26
+Added Net: Name=IN0
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=U2-27
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NetJP1_3 Pin=JP1-3
+Added Pin To Net: NetName=NetJP1_3 Pin=U2-28
+Added Net: Name=NetJP1_3
+Added Pin To Net: NetName=NetJP1_4 Pin=JP1-4
+Added Pin To Net: NetName=NetJP1_4 Pin=U2-1
+Added Net: Name=NetJP1_4
+Added Pin To Net: NetName=NetJP1_5 Pin=JP1-5
+Added Pin To Net: NetName=NetJP1_5 Pin=U2-2
+Added Net: Name=NetJP1_5
+Added Pin To Net: NetName=NetJP1_6 Pin=JP1-6
+Added Pin To Net: NetName=NetJP1_6 Pin=U2-3
+Added Net: Name=NetJP1_6
+Added Pin To Net: NetName=NetJP1_7 Pin=JP1-7
+Added Pin To Net: NetName=NetJP1_7 Pin=U2-4
+Added Net: Name=NetJP1_7
+Added Pin To Net: NetName=NetJP1_8 Pin=JP1-8
+Added Pin To Net: NetName=NetJP1_8 Pin=U2-5
+Added Net: Name=NetJP1_8
+Added Pin To Net: NetName=OUT1 Pin=IC1-10
+Added Pin To Net: NetName=OUT1 Pin=U2-21
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=IC1-11
+Added Pin To Net: NetName=OUT2 Pin=U2-20
+Added Net: Name=OUT2
+Added Pin To Net: NetName=OUT3 Pin=IC1-12
+Added Pin To Net: NetName=OUT3 Pin=U2-19
+Added Net: Name=OUT3
+Added Pin To Net: NetName=OUT4 Pin=IC1-13
+Added Pin To Net: NetName=OUT4 Pin=U2-18
+Added Net: Name=OUT4
+Added Pin To Net: NetName=OUT5 Pin=IC1-14
+Added Pin To Net: NetName=OUT5 Pin=U2-8
+Added Net: Name=OUT5
+Added Pin To Net: NetName=OUT6 Pin=IC1-15
+Added Pin To Net: NetName=OUT6 Pin=U2-15
+Added Net: Name=OUT6
+Added Pin To Net: NetName=OUT7 Pin=IC1-16
+Added Pin To Net: NetName=OUT7 Pin=U2-14
+Added Net: Name=OUT7
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP8 PIN
+Added Room: Name=Sheet1

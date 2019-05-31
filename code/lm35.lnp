@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"main.obj" 
+TO "lm35" 
+RAMSIZE(256) 

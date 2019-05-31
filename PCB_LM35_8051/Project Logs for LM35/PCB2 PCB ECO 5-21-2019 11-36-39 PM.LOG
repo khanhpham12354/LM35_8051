@@ -1,0 +1,16 @@
+Added Component: Designator=DS1(LED7SEG-4-0.36)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 7Q SEG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DT_E Pin=DS1-1
+Added Pin To Net: NetName=DT_D Pin=DS1-2
+Added Pin To Net: NetName=DT_C Pin=DS1-4
+Added Pin To Net: NetName=DT_G Pin=DS1-5
+Added Pin To Net: NetName=NetDS1_6 Pin=DS1-6
+Added Pin To Net: NetName=DT_B Pin=DS1-7
+Added Pin To Net: NetName=NetDS1_8 Pin=DS1-8
+Added Pin To Net: NetName=NetDS1_9 Pin=DS1-9
+Added Pin To Net: NetName=DT_F Pin=DS1-10
+Added Pin To Net: NetName=DT_A Pin=DS1-11
+Added Pin To Net: NetName=NetDS1_12 Pin=DS1-12
+Added Member To Class: ClassName=Sheet1 Member=Component DS1 7SEGQ
+Added Room: Name=Sheet1
